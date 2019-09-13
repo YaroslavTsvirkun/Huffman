@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huffman.Compressor", "Huffman Compressor\Huffman.Compressor.csproj", "{18017071-6284-491B-A919-47C1DD36B1B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuffmanTest", "HuffmanTest\HuffmanTest.csproj", "{2595F2FC-6454-4F1C-9B94-1D146E99FCBC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{18017071-6284-491B-A919-47C1DD36B1B3} = {18017071-6284-491B-A919-47C1DD36B1B3}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18017071-6284-491B-A919-47C1DD36B1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18017071-6284-491B-A919-47C1DD36B1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18017071-6284-491B-A919-47C1DD36B1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18017071-6284-491B-A919-47C1DD36B1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2595F2FC-6454-4F1C-9B94-1D146E99FCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2595F2FC-6454-4F1C-9B94-1D146E99FCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2595F2FC-6454-4F1C-9B94-1D146E99FCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2595F2FC-6454-4F1C-9B94-1D146E99FCBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44F84813-3B37-49FE-9F80-E4BD3C515522}
+	EndGlobalSection
+EndGlobal

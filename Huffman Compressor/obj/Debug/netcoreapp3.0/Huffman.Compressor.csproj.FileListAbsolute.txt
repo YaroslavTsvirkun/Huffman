@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Huffman\Huffman Compressor\bin\Debug\netcoreapp3.0\Huffman.Compressor.deps.json
+C:\Users\User\source\repos\Huffman\Huffman Compressor\bin\Debug\netcoreapp3.0\Huffman.Compressor.dll
+C:\Users\User\source\repos\Huffman\Huffman Compressor\bin\Debug\netcoreapp3.0\Huffman.Compressor.pdb
+C:\Users\User\source\repos\Huffman\Huffman Compressor\obj\Debug\netcoreapp3.0\Huffman.Compressor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Huffman\Huffman Compressor\obj\Debug\netcoreapp3.0\Huffman.Compressor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Huffman\Huffman Compressor\obj\Debug\netcoreapp3.0\Huffman.Compressor.AssemblyInfo.cs
+C:\Users\User\source\repos\Huffman\Huffman Compressor\obj\Debug\netcoreapp3.0\Huffman.Compressor.dll
+C:\Users\User\source\repos\Huffman\Huffman Compressor\obj\Debug\netcoreapp3.0\Huffman.Compressor.pdb

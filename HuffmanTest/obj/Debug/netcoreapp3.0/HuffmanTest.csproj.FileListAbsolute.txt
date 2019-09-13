@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Huffman\HuffmanTest\bin\Debug\netcoreapp3.0\HuffmanTest.exe
+C:\Users\User\source\repos\Huffman\HuffmanTest\bin\Debug\netcoreapp3.0\HuffmanTest.deps.json
+C:\Users\User\source\repos\Huffman\HuffmanTest\bin\Debug\netcoreapp3.0\HuffmanTest.runtimeconfig.json
+C:\Users\User\source\repos\Huffman\HuffmanTest\bin\Debug\netcoreapp3.0\HuffmanTest.runtimeconfig.dev.json
+C:\Users\User\source\repos\Huffman\HuffmanTest\bin\Debug\netcoreapp3.0\HuffmanTest.dll
+C:\Users\User\source\repos\Huffman\HuffmanTest\bin\Debug\netcoreapp3.0\HuffmanTest.pdb
+C:\Users\User\source\repos\Huffman\HuffmanTest\bin\Debug\netcoreapp3.0\Huffman.Compressor.dll
+C:\Users\User\source\repos\Huffman\HuffmanTest\bin\Debug\netcoreapp3.0\Huffman.Compressor.pdb
+C:\Users\User\source\repos\Huffman\HuffmanTest\obj\Debug\netcoreapp3.0\HuffmanTest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Huffman\HuffmanTest\obj\Debug\netcoreapp3.0\HuffmanTest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Huffman\HuffmanTest\obj\Debug\netcoreapp3.0\HuffmanTest.AssemblyInfo.cs
+C:\Users\User\source\repos\Huffman\HuffmanTest\obj\Debug\netcoreapp3.0\HuffmanTest.csproj.CopyComplete
+C:\Users\User\source\repos\Huffman\HuffmanTest\obj\Debug\netcoreapp3.0\HuffmanTest.dll
+C:\Users\User\source\repos\Huffman\HuffmanTest\obj\Debug\netcoreapp3.0\HuffmanTest.pdb
