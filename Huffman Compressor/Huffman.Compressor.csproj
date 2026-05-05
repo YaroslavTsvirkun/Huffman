@@ -3,8 +3,24 @@
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <RootNamespace>Huffman.Compressor</RootNamespace>
-    <Description>Huffman encoding and decoding library for .NET.</Description>
+    <PackageId>Huffman.Compressor</PackageId>
+    <Version>1.0.0</Version>
+    <Title>Huffman.Compressor</Title>
+    <Authors>YaroslavTsvirkun</Authors>
+    <Company>YaroslavTsvirkun</Company>
+    <Description>Production-ready Huffman encoding and decoding library for .NET.</Description>
+    <PackageTags>huffman;compression;encoding;decoding;dotnet</PackageTags>
+    <PackageProjectUrl>https://github.com/YaroslavTsvirkun/Huffman</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/YaroslavTsvirkun/Huffman.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageReleaseNotes>Initial NuGet release of the Huffman codec library with automated tests and package documentation.</PackageReleaseNotes>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
 
 </Project>
