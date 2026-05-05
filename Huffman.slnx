@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Huffman Compressor/Huffman.Compressor.csproj" />
+  <Project Path="HuffmanTest/HuffmanTest.csproj">
+    <BuildDependency Project="Huffman Compressor/Huffman.Compressor.csproj" />
+  </Project>
+</Solution>
